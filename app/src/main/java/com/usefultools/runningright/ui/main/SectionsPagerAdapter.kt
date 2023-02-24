@@ -1,3 +1,5 @@
+@file:Suppress("DEPRECATION")
+
 package com.usefultools.runningright.ui.main
 
 import android.content.Context
